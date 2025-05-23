@@ -1,0 +1,27 @@
+# Streamlit Raketen-Sichtbarkeits-App Requirements
+
+# Core Web Framework
+streamlit>=1.28.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Geographic Calculations
+geopy>=2.3.0
+
+# Interactive Maps
+folium>=0.14.0
+streamlit-folium>=0.13.0
+
+# Timezone Handling
+pytz>=2023.3
+
+# Optional: Advanced Charts (kann weggelassen werden, App funktioniert auch ohne)
+plotly>=5.15.0
+
+# Note: math, datetime, random sind Teil der Python Standard Library
+# und müssen nicht separat installiert werden
